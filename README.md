@@ -14,7 +14,7 @@
 
 ## Download
 
-Download the latest release from the Releases section.
+➡️ [Download the latest release](https://github.com/studiokozak/SK-Krowka/releases/latest)
 
 ## Overview
 
