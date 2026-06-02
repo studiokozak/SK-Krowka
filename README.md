@@ -2,8 +2,15 @@
   <img src="Captures/Studio_Kozak.png" width="500">
 </p>
 
-# SK-Krowka
-A little Polish candy for crowded low-mids.
+<p align="center">
+  <img src="Captures/Studio_Kozak.png" width="500">
+</p>
+
+<h1 align="center">SK Krowka</h1>
+
+<p align="center">
+  <em>A little Polish candy for crowded low-mids.</em>
+</p>
 
 <p align="center">
   <img src="Captures/SK_Krowka_01.png">
