@@ -5,7 +5,7 @@
 <h1 align="center">SK Krowka</h1>
 
 <p align="center">
-  <em>A little Polish candy for crowded low-mids.</em>
+  <em>A little more space where mixes usually get crowded.</em>
 </p>
 
 <p align="center">
