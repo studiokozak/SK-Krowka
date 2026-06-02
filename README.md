@@ -9,12 +9,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/studiokozak/SK-Krowka/releases/latest">
+    Download Latest Release
+  </a>
+</p>
+
+<p align="center">
   <img src="Captures/SK_Krowka_01.png">
 </p>
 
-## Download
-
-➡️ [Download the latest release](https://github.com/studiokozak/SK-Krowka/releases/latest)
 
 ## Overview
 
@@ -52,7 +55,7 @@ This allows the processor to be adapted to the musical key rather than an arbitr
 
 ## Controls
 
-**TONE**
+### TONE
 
 Selects the musical note used as the processing reference.
 
@@ -72,13 +75,13 @@ This usually provides the most natural and musically coherent results.
 
 You may then experiment with neighboring notes to fine-tune the effect.
 
-If the key is unknown
+If the key is unknown:
 
 Simply audition the different positions and choose the one that provides the greatest sense of openness, clarity and listening comfort.
 
 ---
 
-**AMOUNT**
+### AMOUNT
 
 Controls the processing intensity.
 
@@ -90,7 +93,7 @@ For mix bus applications, moderate settings are usually recommended.
 
 ---
 
-**OUTPUT**
+### OUTPUT
 
 Adjusts the output level.
 
@@ -98,7 +101,7 @@ Use this control to maintain equal loudness when performing A/B comparisons.
 
 ---
 
-**ON / OFF**
+### ON / OFF
 
 Engages or bypasses the processing.
 
