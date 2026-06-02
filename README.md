@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Captures/Studio_Kozak.png">
+  <img src="Captures/Studio_Kozak.png" width="500">
 </p>
 
 # SK-Krowka
