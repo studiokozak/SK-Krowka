@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Captures/Studio_Kozak.png">
+</p>
+
 # SK-Krowka
 A little Polish candy for crowded low-mids.
 
