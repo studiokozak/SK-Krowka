@@ -2,10 +2,6 @@
   <img src="Captures/Studio_Kozak.png" width="500">
 </p>
 
-<p align="center">
-  <img src="Captures/Studio_Kozak.png" width="500">
-</p>
-
 <h1 align="center">SK Krowka</h1>
 
 <p align="center">
