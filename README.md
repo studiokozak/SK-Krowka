@@ -1,7 +1,7 @@
 # SK-Krowka
 A little Polish candy for crowded low-mids.
 
-Overview
+## Overview
 
 SK Krowka is a Mid/Side phase processor designed to help reduce the perception of congestion in the low-mid range.
 
@@ -15,7 +15,7 @@ SK Krowka is available in VST3 format (Windows and macOS) and Audio Unit (AU) fo
 
 ---
 
-Why "Krowka"?
+## Why "Krowka"?
 
 *Krwka* is a traditional Polish caramel candy enjoyed by generations of people.
 
@@ -25,7 +25,7 @@ If a mix feels clearer, more open and simply puts a slight smile on your face, K
 
 ---
 
-How It Works
+## How It Works
 
 SK Krowka is based on the notes of the chromatic scale.
 
@@ -35,9 +35,9 @@ This allows the processor to be adapted to the musical key rather than an arbitr
 
 ---
 
-Controls
+## Controls
 
-Tone
+**TONE**
 
 Selects the musical note used as the processing reference.
 
@@ -63,7 +63,7 @@ Simply audition the different positions and choose the one that provides the gre
 
 ---
 
-Amount
+**AMOUNT**
 
 Controls the processing intensity.
 
@@ -75,7 +75,7 @@ For mix bus applications, moderate settings are usually recommended.
 
 ---
 
-Output
+**OUTPUT**
 
 Adjusts the output level.
 
@@ -83,7 +83,7 @@ Use this control to maintain equal loudness when performing A/B comparisons.
 
 ---
 
-Bypass
+**ON / OFF**
 
 Engages or bypasses the processing.
 
@@ -91,9 +91,9 @@ Regular comparisons remain the best way to evaluate the effect objectively.
 
 ---
 
-Typical Applications
+## Typical Applications
 
-SK Krowka works particularly well on:
+SK Krowka can works particularly well on:
 
 * Mix bus
 * Guitar buses
@@ -107,15 +107,15 @@ It can also be used creatively on individual tracks.
 
 ---
 
-System Requirements
+## System Requirements
 
-Windows
+**Windows**
 
 * Windows 10 or later
 * VST3 compatible host
 * VST3 format
 
-macOS
+**macOS**
 
 * macOS 11 Big Sur or later
 * Intel or Apple Silicon
@@ -124,9 +124,9 @@ macOS
 
 ---
 
-Installation
+## Installation
 
-Windows
+**Windows**
 
 Copy:
 
@@ -138,9 +138,9 @@ to:
 
 Then restart your DAW.
 
-macOS
+**macOS**
 
-VST3 Version
+*VST3 Version*
 
 Copy:
 
@@ -150,7 +150,7 @@ to:
 
 `/Library/Audio/Plug-Ins/VST3`
 
-Audio Unit Version
+*Audio Unit Version*
 
 Copy:
 
@@ -164,7 +164,7 @@ Then restart your DAW.
 
 ---
 
-Notes
+## Notes
 
 SK Krowka primarily affects spatial perception and phase relationships within the low-mid region.
 
@@ -174,4 +174,4 @@ SK Krowka is not intended to replace an equalizer. It is a complementary tool th
 
 ---
 
-Stéphan (Studio Kozak)
+*Stéphan (Studio Kozak)*
