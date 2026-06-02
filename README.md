@@ -101,7 +101,7 @@ Regular comparisons remain the best way to evaluate the effect objectively.
 
 ## Typical Applications
 
-SK Krowka can work particularly well on:
+SK Krowka often works particularly well on:
 
 * Mix bus
 * Guitar buses
