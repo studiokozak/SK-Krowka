@@ -25,7 +25,7 @@ SK Krowka is available in VST3 format (Windows and macOS) and Audio Unit (AU) fo
 
 ## Why "Krowka"?
 
-*Krwka* is a traditional Polish caramel candy enjoyed by generations of people.
+*Krowka* is a traditional Polish caramel candy enjoyed by generations of people.
 
 The plugin was named after it because it follows a similar philosophy: not to transform a mix dramatically, but to make it a little more enjoyable.
 
@@ -57,9 +57,9 @@ If you know the key of the song, start by selecting that note.
 
 Examples:
 
-* A minor song A
-* D major song D
-* G minor song G
+* A minor song -> A
+* D major song -> D
+* G minor song -> G
 
 This usually provides the most natural and musically coherent results.
 
@@ -101,7 +101,7 @@ Regular comparisons remain the best way to evaluate the effect objectively.
 
 ## Typical Applications
 
-SK Krowka can works particularly well on:
+SK Krowka can work particularly well on:
 
 * Mix bus
 * Guitar buses
@@ -138,7 +138,7 @@ It can also be used creatively on individual tracks.
 
 Copy:
 
-SK_Krowka.vst3
+**SK_Krowka.vst3**
 
 to:
 
@@ -152,7 +152,7 @@ Then restart your DAW.
 
 Copy:
 
-SK_Krowka.vst3
+**SK_Krowka.vst3**
 
 to:
 
@@ -162,7 +162,7 @@ to:
 
 Copy:
 
-SK_Krowka.component
+**SK_Krowka.component**
 
 to:
 
