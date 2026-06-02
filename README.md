@@ -23,7 +23,9 @@ The plugin was named after it because it follows a similar philosophy: not to tr
 
 If a mix feels clearer, more open and simply puts a slight smile on your face, Krowka has probably done its job.
 
----
+<p align="center">
+  <img src="Captures/SK_Krowka_01.png">
+</p>
 
 ## How It Works
 
