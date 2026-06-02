@@ -172,6 +172,14 @@ Then restart your DAW.
 
 ---
 
+### macOS Security
+
+SK Krowka is built as a Universal Binary and supports both Intel and Apple Silicon Macs.
+
+Depending on your macOS security settings, you may need to authorize the plugin manually the first time it is loaded.
+
+---
+
 ## Notes
 
 SK Krowka primarily affects spatial perception and phase relationships within the low-mid region.
