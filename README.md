@@ -12,6 +12,10 @@
   <img src="Captures/SK_Krowka_01.png">
 </p>
 
+## Download
+
+Download the latest release from the Releases section.
+
 ## Overview
 
 SK Krowka is a Mid/Side phase processor designed to help reduce the perception of congestion in the low-mid range.
